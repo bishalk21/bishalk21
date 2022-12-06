@@ -60,4 +60,18 @@
  </a> 
 </p>
 
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bishalk21&show_icons=true&locale=en&theme=radical"  alt="bishalk21" /></p>
+
+  </td>
+  <td width="50%">
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishalk21&theme=radical"  alt="bishalk21" /></p>
+  </td>
+</table>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishalk21&theme=onestar&row=1&margin-w=15" alt="bishalk21" /></a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishalk21&show_icons=true&locale=en&layout=compact" alt="bishalk21" /></p>
