@@ -1,16 +1,26 @@
-## Hi 👋, I'm [Bishal Karki](https:www.karkibishal.com)
+## Hi 👋, I'm [Bishal Karki](https://www.karkibishal.com)
 
 <h3 align="left">A passionate developer based in Australia</h3>
 
+<p align="left"> <a href="https://twitter.com/inTime_73" target="blank">
+  <img src="https://img.shields.io/twitter/follow/inTime_73?logo=twitter&style=for-the-badge" alt="inTime_73" />
+  </a> </p>
+
 - 🚀 Currently pursuing bachelor's degree in Information Technology.
+
+- 💡 I am currently working on [**MERN-based e-Commerce Project**](https://github.com/bishalk21/fashiona-client-cms)
 
 - 👨‍💻 Some of my projects are available at [https://www.karkibishal.com](https://www.karkibishal.com)
 
-<!-- -  🌱 I’m currently learning **angular, nodejs, express, ~~next js~~** -->
+- 💬 Ask me about **Reactjs, Angular, Nodejs, Expressjs, MongoDB, Bootstrap, HTML, CSS, Javascript**
+
+- 🌱 I’m currently learning **mongodb, expressjs, reactjs and nodejs**
 
 - 📫 How to reach me **karkibishal00@gmail.com**
 
 - ⚡ Fun fact **I love to play Cricket**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalk21&label=Profile%20views&color=0e75b6&style=flat" alt="bishalk21" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
