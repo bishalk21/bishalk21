@@ -18,14 +18,14 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 - 🌱 I’m currently learning **mongodb, express.js, react.js and node.js**
 - ⚡ Fun fact **I love to play Volleyball && Cricket**
 
- <p class="text-align:center; display: flex; align-items: center;">
+ <p style="text-align:center; display: flex; align-items: center;">
       <i>You can reach out to me via</i>
-        <a href="mailto:karkibishal00@gmail.com" class="display: flex; align-items: center;">
+        <a href="mailto:karkibishal00@gmail.com" style="text-align: center; display: flex; align-items: center;">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height:22px;">
         </a>
     </p>
 
-<p align="left" class="padding-top: 3px;">   
+<p align="left" style="padding-top: 3px;">   
   <img src="https://komarev.com/ghpvc/?username=bishalk21&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
 </p>
 
@@ -131,14 +131,14 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   <td width="50%">
 
   <p>
-    <img align="center" class="width: 100%;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=bishalk21&show_icons=true&locale=en&layout=compact"  alt="bishalk21" />
+    <img align="center" style="width: 100%;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=bishalk21&show_icons=true&locale=en&layout=compact"  alt="bishalk21" />
    </p>
   </td>
 
   <td width="50%">
 
   <p>
-    <img align="center" class="width: 100%;"  src="https://leetcode.card.workers.dev/bishalkarki?theme=auto&font=baloo&extension=null"  alt="bishalk21" />
+    <img align="center" style="width: 100%;"  src="https://leetcode.card.workers.dev/bishalkarki?theme=auto&font=baloo&extension=null"  alt="bishalk21" />
   </p>
 
   </td>
