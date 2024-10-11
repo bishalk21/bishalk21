@@ -16,8 +16,14 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 - 👨‍💻 Some of my projects are available at [https://www.karkibishal.com](https://www.karkibishal.com)
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, Bootstrap, HTML, CSS, JavaScript, tailwindCSS**
 - 🌱 I’m currently learning **mongodb, express.js, react.js and node.js**
-- 📫 How to reach me **karkibishal00@gmail.com**
 - ⚡ Fun fact **I love to play Volleyball && Cricket**
+
+ <p class="text-align:center; display: flex; align-items: center;">
+      <i>You can reach out to me via</i>
+        <a href="mailto:karkibishal00@gmail.com" class="display: flex; align-items: center;">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height:22px;">
+        </a>
+    </p>
 
 <p align="left" class="padding-top: 3px;">   
   <img src="https://komarev.com/ghpvc/?username=bishalk21&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
@@ -28,12 +34,6 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
       <a href="https://www.linkedin.com/in/bishalk21" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishalk21" height="20" width="30" />
       </a>
-    </p>
-    <p class="text-align:center;">
-      <i>You can reach out to me via</i>
-        <a href="mailto:karkibishal00@gmail.com" class="display: flex; align-items: center;">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height:22px;">
-        </a>
     </p>
 
 <h3 align="center">Languages and Tools 🛠 </h3>
@@ -137,14 +137,12 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
   <td width="50%">
 
-  <div align="center">
-
-![LeetCode Stats](https://leetcode.card.workers.dev/bishalkarki?theme=auto&font=baloo&extension=null)
-
-  </div>
+  <p>
+    <img align="center" class="width: 100%;"  src="https://leetcode.card.workers.dev/bishalkarki?theme=auto&font=baloo&extension=null"  alt="bishalk21" />
+  </p>
 
   </td>
-  </tr>
+  </tr> 
 </table>
 
  <p>
