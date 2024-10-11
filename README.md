@@ -18,9 +18,9 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 - 🌱 I’m currently learning **mongodb, express.js, react.js and node.js**
 - ⚡ Fun fact **I love to play Volleyball && Cricket**
 
- <p style="text-align:center; display: flex; align-items: center;">
+ <p style="text-align:center;">
       <i>You can reach out to me via</i>
-        <a href="mailto:karkibishal00@gmail.com" style="text-align: center; display: flex; align-items: center;">
+        <a href="mailto:karkibishal00@gmail.com" style="text-align: center;">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height:22px;">
         </a>
     </p>
