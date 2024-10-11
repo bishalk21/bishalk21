@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋,  I'm [Bishal Karki](https://www.karkibishal.com)</h1>
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=bishalk21&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   A passionate frontend developer from Nepal 🇳🇵
   <a href="https://www.karkibishal.com">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
@@ -9,7 +8,7 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN, Android Development, and Chatbot Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
+I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN Stack Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
 - 🚀 Currently pursuing bachelor's degree in Information Technology.
 - 💡 I am currently working on MERN-based projects.
@@ -19,7 +18,9 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 - 📫 How to reach me **karkibishal00@gmail.com**
 - ⚡ Fun fact **I love to play Volleyball && Cricket**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalk21&label=Profile%20views&color=0e75b6&style=flat" alt="bishalk21" /> </p>
+<p align="left" class="padding-top: 3px;">   
+  <img src="https://komarev.com/ghpvc/?username=bishalk21&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+</p>
 
   <h3 align="left">Connect with me:</h3>
     <p align="left">
@@ -29,8 +30,8 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
     </p>
     <p>
       <i>You can reach out to me via</i>
-        <a href="mailto:[your-email]">
-          <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
+        <a href="mailto:karkibishal00@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height:22px;">
         </a>
     </p>
 
