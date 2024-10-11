@@ -1,36 +1,45 @@
-## Hi 👋, I'm [Bishal Karki](https://www.karkibishal.com)
+<h1 align="center">Hi 👋,  I'm [Bishal Karki](https://www.karkibishal.com)</h1>
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=bishalk21&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  A passionate frontend developer from Nepal 🇳🇵
+  <a href="https://www.karkibishal.com">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+  </a>
+</h2>
 
-<h3 align="left">A passionate and motivated Software Engineer
+## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-<p align="left"> <a href="https://www.linkedin.com/in/bishalk21/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishalk21" height="30" width="40" />
-  </a> </p>
+I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN, Android Development, and Chatbot Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
 - 🚀 Currently pursuing bachelor's degree in Information Technology.
-
 - 💡 I am currently working on MERN-based projects.
-
 - 👨‍💻 Some of my projects are available at [https://www.karkibishal.com](https://www.karkibishal.com)
-
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, Bootstrap, HTML, CSS, JavaScript, tailwindCSS**
-
 - 🌱 I’m currently learning **mongodb, express.js, react.js and node.js**
-
 - 📫 How to reach me **karkibishal00@gmail.com**
-
 - ⚡ Fun fact **I love to play Volleyball && Cricket**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalk21&label=Profile%20views&color=0e75b6&style=flat" alt="bishalk21" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bishalk21" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishalk21" height="20" width="30" />
-</a>
-</p>
+<details>
+  <summary>
+    <h3 align="left">Connect with me:</h3>
+  </summary>  
+    <p align="left">
+      <a href="https://www.linkedin.com/in/bishalk21" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishalk21" height="20" width="30" />
+      </a>
+    </p>
+    <p>
+        <i>You can reach out to me via</i>
+        <a href="mailto:[your-email]">
+          <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
+        </a>
+      </p>
+</details>
 
 <h3 align="left">Languages and Tools 🛠 I am familiar with: </h3>
-<p align="left" style="font-size: 16px; position: flex; gap: 2px;" > 
+<p align="left" style="font-size: 16px; display: flex;   gap: 2px;" > 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="28" height="28"/>
  </a>
@@ -100,15 +109,64 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bishalk21&show_icons=true&locale=en&theme=radical"  alt="bishalk21" /></p>
-
+    <p>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=bishalk21&show_icons=true&locale=en&theme=radical"  alt="bishalk21" />
+    </p>
   </td>
+
   <td width="50%">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishalk21&theme=radical"  alt="bishalk21" /></p>
+    <p>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishalk21&theme=radical"  alt="bishalk21" />
+    </p>
   </td>
+  </tr>
 </table>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishalk21&theme=onestar&row=1&margin-w=15" alt="bishalk21" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bishalk21&theme=onestar&row=1&margin-w=15" alt="bishalk21" />
+  </a> 
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishalk21&show_icons=true&locale=en&layout=compact" alt="bishalk21" /></p>
+<table width="100%"> 
+  <tr>
+  <td width="35%">
+    <p>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishalk21&show_icons=true&locale=en&layout=compact"  alt="bishalk21" />
+    </p>
+  </td>
+
+  <td width="65%">
+    <p>
+      <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bishalk21&theme=tokyo-night"  alt="bishalk21" />
+    </p>
+  </td>
+  </tr>
+</table>
+
+### Leetcode
+
+  <div align="center">
+
+![LeetCode Stats](https://leetcode.card.workers.dev/bishalkarki?theme=auto&font=baloo&extension=null)
+
+  </div>
+
+<!-- ### Codeforces -->
+  <!-- <div align="center"> -->
+<!-- ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=coderb21) -->
+  <!-- </div> -->
+
+<!-- ------- -->
+<!-- ✅ Merged PRs -->
+<!--Start Count Merged PRs-->
+<!-- <span><img src="https://img.shields.io/badge/Total_Merged_PRs-34-1877F2?style=for-the-badge"></span> -->
+<!--Finish Count Merged PRs-->
+<!--Start Merged PRs-->
+<!-- 🥳 Merged PR 379 - pymc-labs/CausalPy -->
+<!--Finish Merged PRs-->
+
+<!-- <img align="center" src="https://github.com/bishalk21/bishalk21/blob/main/icons/activity.gif"  width="25"/> Recent Activity -->
+<!--START_SECTION:activity-->
+<!-- 🗣 Commented on #2944 in actualbudget/actual -->
+<!--END_SECTION:activity-->
