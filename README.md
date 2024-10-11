@@ -21,25 +21,21 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalk21&label=Profile%20views&color=0e75b6&style=flat" alt="bishalk21" /> </p>
 
-<details>
-  <summary>
-    <h3 align="left">Connect with me:</h3>
-  </summary>  
+  <h3 align="left">Connect with me:</h3>
     <p align="left">
       <a href="https://www.linkedin.com/in/bishalk21" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishalk21" height="20" width="30" />
       </a>
     </p>
     <p>
-        <i>You can reach out to me via</i>
+      <i>You can reach out to me via</i>
         <a href="mailto:[your-email]">
           <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
         </a>
-      </p>
-</details>
+    </p>
 
-<h3 align="left">Languages and Tools 🛠 I am familiar with: </h3>
-<p align="left" style="font-size: 16px; display: flex;   gap: 2px;" > 
+<h3 align="left">Languages and Tools 🛠 </h3>
+<p align="left" style="font-size: 16px; width: 100%; display: flex; flex-wrap: none; align-items: center; justify-content: space-between;" > 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="28" height="28"/>
  </a>
@@ -130,19 +126,13 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 <table width="100%"> 
   <tr>
-  <td width="35%">
+  <td width="50%">
     <p>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishalk21&show_icons=true&locale=en&layout=compact"  alt="bishalk21" />
     </p>
   </td>
 
-  <td width="65%">
-    <p>
-      <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bishalk21&theme=tokyo-night"  alt="bishalk21" />
-    </p>
-  </td>
-  </tr>
-</table>
+  <td width="50%">
 
 ### Leetcode
 
@@ -151,6 +141,14 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ![LeetCode Stats](https://leetcode.card.workers.dev/bishalkarki?theme=auto&font=baloo&extension=null)
 
   </div>
+
+  </td>
+  </tr>
+</table>
+
+ <p>
+      <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bishalk21&theme=tokyo-night"  alt="bishalk21" />
+  </p>
 
 <!-- ### Codeforces -->
   <!-- <div align="center"> -->
