@@ -1,13 +1,8 @@
-## Hi 👋, I'm Bishal Karki
+## A passionate frontend developer from Nepal 🇳🇵
 
-<h3 align="left">
-  A passionate frontend developer from Nepal 🇳🇵
   <a href="https://www.karkibishal.com">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
-</h3>
-
-## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
 I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN Stack Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
@@ -25,16 +20,16 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
         </a>
     </p>
 
-<p align="left" style="padding-top: 3px;">   
-  <img src="https://komarev.com/ghpvc/?username=bishalk21&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-</p>
-
   <h3 align="left">Connect with me:</h3>
     <p align="left">
       <a href="https://www.linkedin.com/in/bishalk21" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishalk21" height="20" width="30" />
       </a>
     </p>
+
+<p align="left" style="padding-top: 3px;">   
+  <img src="https://komarev.com/ghpvc/?username=bishalk21&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+</p>
 
 <h3 align="center">Languages and Tools 🛠 </h3>
 <p align="center" style="font-size: 16px; width: 100%; display: flex; flex-direction: row; flex-wrap: none; align-items: center; justify-content: space-between;" > 
