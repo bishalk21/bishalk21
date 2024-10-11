@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋,  I'm [Bishal Karki](https://www.karkibishal.com)</h1>
-<h2 align="center">
+## Hi 👋, I'm Bishal Karki
+
+<h3 align="left">
   A passionate frontend developer from Nepal 🇳🇵
   <a href="https://www.karkibishal.com">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
-</h2>
+</h3>
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
@@ -28,15 +29,15 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishalk21" height="20" width="30" />
       </a>
     </p>
-    <p>
+    <p class="text-align:center;">
       <i>You can reach out to me via</i>
-        <a href="mailto:karkibishal00@gmail.com">
+        <a href="mailto:karkibishal00@gmail.com" class="display: flex; align-items: center;">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height:22px;">
         </a>
     </p>
 
-<h3 align="left">Languages and Tools 🛠 </h3>
-<p align="left" style="font-size: 16px; width: 100%; display: flex; flex-wrap: none; align-items: center; justify-content: space-between;" > 
+<h3 align="center">Languages and Tools 🛠 </h3>
+<p align="center" style="font-size: 16px; width: 100%; display: flex; flex-direction: row; flex-wrap: none; align-items: center; justify-content: space-between;" > 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="28" height="28"/>
  </a>
@@ -128,14 +129,13 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 <table width="100%"> 
   <tr>
   <td width="50%">
-    <p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishalk21&show_icons=true&locale=en&layout=compact"  alt="bishalk21" />
-    </p>
+
+  <p>
+    <img align="center" class="width: 100%;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=bishalk21&show_icons=true&locale=en&layout=compact"  alt="bishalk21" />
+   </p>
   </td>
 
   <td width="50%">
-
-### Leetcode
 
   <div align="center">
 
