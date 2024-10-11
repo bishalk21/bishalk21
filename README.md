@@ -16,7 +16,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
  <p style="text-align:center;">
       <i>You can reach out to me via</i>
         <a href="mailto:karkibishal00@gmail.com" style="text-align: center;">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height:18px;">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height:22px;">
         </a>
     </p>
 
