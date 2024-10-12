@@ -1,4 +1,4 @@
-## A passionate frontend developer from Nepal 🇳🇵
+## An Aspiring Software Engineer from Nepal 🇳🇵
 
   <a href="https://www.karkibishal.com">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
