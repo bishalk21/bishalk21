@@ -133,7 +133,8 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   <td width="50%">
 
   <p>
-    <img align="center" style="width: 100%;"  src="https://leetcode.card.workers.dev/bishalkarki?theme=auto&font=baloo&extension=null"  alt="bishalk21" />
+    <!-- <img align="center" style="width: 100%;"  src="https://leetcode.card.workers.dev/bishalkarki?theme=auto&font=baloo&extension=null"  alt="bishalk21" /> -->
+    <img align="center" style="width: 100%;"  src="ttps://leetcard.bishalkarki.cool/leetcode?site=cn"  alt="bishalk21" />
   </p>
 
   </td>
