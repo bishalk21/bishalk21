@@ -123,21 +123,20 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 <table width="100%"> 
   <tr>
-  <td width="50%">
+  <td width="100%">
 
   <p>
     <img align="center" style="width: 100%;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=bishalk21&show_icons=true&locale=en&layout=compact"  alt="bishalk21" />
    </p>
   </td>
 
-  <td width="50%">
+  <!-- <td width="50%">
 
   <p>
     <!-- <img align="center" style="width: 100%;"  src="https://leetcode.card.workers.dev/bishalkarki?theme=auto&font=baloo&extension=null"  alt="bishalk21" /> -->
-    <img align="center" style="width: 100%;"  src="ttps://leetcard.bishalkarki.cool/leetcode?site=cn"  alt="bishalk21" />
   </p>
 
-  </td>
+  </td> -->
   </tr> 
 </table>
 
