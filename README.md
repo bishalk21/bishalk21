@@ -1,6 +1,6 @@
 # Hi, I'm Bishal 👋
 
-📍 **Kathmandu, Nepal** | 💻 **Full-Stack Developer** | 🎓 **IT Student**
+📍 **Kathmandu, Nepal** | 💻 **Full-Stack Developer** |
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -15,8 +15,9 @@
 
 ## Current Projects
 
-- 🏥 **Healthcare Management System** - MERN-based healthcare solution with appointment scheduling
 - 🍔 **[Hamro Bhojan](https://github.com/bishalk21/hamro-bhojan)** - Full-stack food delivery platform with real-time order tracking
+- 📸 **[Camera + Gallery App](https://bishalk21.github.io/Camera-Gallery/)** - Web application for recording and managing videos using browser APIs
+- 🏥 **Healthcare Management System** - MERN-based healthcare solution with appointment scheduling
 
 ## GitHub Activity
 
