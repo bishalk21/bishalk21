@@ -1,6 +1,6 @@
 # Hi, I'm Bishal 👋
 
-📍 **Kathmandu, Nepal** | 💻 **Full-Stack Developer** |
+📍 **Pokhara, Nepal** | 💻 **Full-Stack Developer** |
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -15,6 +15,7 @@
 
 ## Current Projects
 
+- **[AI Gift Genie](https://github.com/bishalk21/ai-project)** - AI-powered gift recommendation app built with React and Node.js using OpenAI's API
 - 🍔 **[Hamro Bhojan](https://github.com/bishalk21/hamro-bhojan)** - Full-stack food delivery platform with real-time order tracking
 - 📸 **[Camera + Gallery App](https://bishalk21.github.io/Camera-Gallery/)** - Web application for recording and managing videos using browser APIs
 - 🏥 **Healthcare Management System** - MERN-based healthcare solution with appointment scheduling
@@ -50,7 +51,7 @@
 - Bachelor's in Information Technology (In Progress)
 - Active contributor to open-source projects
 - Building portfolio of real-world MERN stack applications
-- Passionate about volleyball & cricket when not coding
+- Passionate about Volleyball & Cricket when not coding
 
 ### Philosophy
 
@@ -64,6 +65,6 @@
 - Eagerness to learn and adapt to new technologies
 - Team collaboration and communication skills
 - Commitment to continuous improvement
-- Love playing Volleyball & Cricket
+- Love playing volleyball & Cricket
 
 </details>
