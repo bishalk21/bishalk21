@@ -24,10 +24,6 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/bishalk21)
 
-## Leetcode Stats
-
-![Leetcode Stats](https://leetcode-stats-six.vercel.app/api?username=bishalkarki&theme=dark)
-
 ## What I'm Doing
 
 - **Learning modern web technologies** - Diving deep into React patterns, Node.js optimization, and MongoDB aggregation
