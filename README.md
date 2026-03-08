@@ -26,7 +26,7 @@
 
 ## Leetcode Stats
 
-![Leetcode Stats](https://leetcode-stats-six.vercel.app/api?username=bishalk21&theme=dark)
+![Leetcode Stats](https://leetcode-stats-six.vercel.app/api?username=bishalkarki&theme=dark)
 
 ## What I'm Doing
 
