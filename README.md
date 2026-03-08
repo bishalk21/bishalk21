@@ -15,7 +15,7 @@
 
 ## Current Projects
 
-- **[AI Gift Genie](https://github.com/bishalk21/ai-project)** - AI-powered gift recommendation app built with React and Node.js using OpenAI's API
+- 🧞‍♀️ **[AI Gift Genie](https://github.com/bishalk21/ai-project)** - AI-powered gift recommendation app built with React and Node.js using OpenAI's API
 - 🍔 **[Hamro Bhojan](https://github.com/bishalk21/hamro-bhojan)** - Full-stack food delivery platform with real-time order tracking
 - 📸 **[Camera + Gallery App](https://bishalk21.github.io/Camera-Gallery/)** - Web application for recording and managing videos using browser APIs
 - 🏥 **Healthcare Management System** - MERN-based healthcare solution with appointment scheduling
