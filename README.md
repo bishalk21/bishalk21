@@ -19,6 +19,7 @@
 - 🍔 **[Hamro Bhojan](https://github.com/bishalk21/hamro-bhojan)** - Full-stack food delivery platform with real-time order tracking
 - 📸 **[Camera + Gallery App](https://bishalk21.github.io/Camera-Gallery/)** - Web application for recording and managing videos using browser APIs
 - 🏥 **Healthcare Management System** - MERN-based healthcare solution with appointment scheduling
+- 🧮 **[Calculator using JavaScript](https://github.com/bishalk21/JS-Calculator)** - Simple calculator app built with vanilla JavaScript for basic arithmetic operations
 
 ## GitHub Activity
 
