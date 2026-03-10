@@ -43,7 +43,7 @@
 ## Tech Stack
 
 **Frontend:** React, TypeScript, TailwindCSS, Redux, Vite  
-**APIs:** REST APIs, GraphQL
+**APIs:** REST APIs, GraphQL  
 **Backend:** Node.js, Express.js, MongoDB, REST APIs
 **Tools:** Git, Postman, Figma, VS Code  
 **Deployment:** Vercel, Heroku
