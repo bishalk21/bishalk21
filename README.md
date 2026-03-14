@@ -22,7 +22,7 @@
 ### Vanilla JavaScript Projects
 
 - 📸 **[Camera + Gallery App](https://github.com/bishalk21/Camera-Gallery)** - Web application for recording and managing videos using browser APIs
-- 📝 **[To-Do List App](https://github.com/bishalk21/to-do-list-app/)** - Task management app with entry and bad task lists, built with vanilla JavaScript
+- 📝 **[To-Do List App](https://github.com/bishalk21/to-do-list-app/)** - Task management app with entry and bad task lists, built with vanilla JavaScript and local storage
 - 🧮 **[Calculator using JavaScript](https://github.com/bishalk21/JS-Calculator)** - Simple calculator app built with vanilla JavaScript for basic arithmetic operations
 
 ### React.js Projects
