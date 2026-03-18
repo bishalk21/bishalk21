@@ -11,7 +11,7 @@
 
 > Building modern web applications with the MERN stack. Passionate about clean code, seamless user experiences, and continuous learning.
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-543DE0?style=flat-square&logo=About.me&logoColor=white)](https://www.karkibishal.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-543DE0?style=flat-square&logo=About.me&logoColor=white)](https://bishal-karki.vercel.app/)
 
 ## Current Projects
 
@@ -21,6 +21,7 @@
 
 ### Vanilla JavaScript Projects
 
+- 📃 **[Google Sheet Clone](https://github.com/bishalk21/g-excel-app)** - Spreadsheet application with cell editing, formatting, formulas, sheet upload/download, and dependency graph optimization
 - 📸 **[Camera + Gallery App](https://github.com/bishalk21/Camera-Gallery)** - Web application for recording and managing videos using browser APIs
 - 📝 **[To-Do List App](https://github.com/bishalk21/to-do-list-app/)** - Task management app with entry and bad task lists, built with vanilla JavaScript and local storage
 - 🧮 **[Calculator using JavaScript](https://github.com/bishalk21/JS-Calculator)** - Simple calculator app built with vanilla JavaScript for basic arithmetic operations
