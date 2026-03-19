@@ -1,6 +1,6 @@
 # Hi, I'm Bishal 👋
 
-📍 **Pokhara, Nepal** | 💻 **Full-Stack Developer** |
+📍 **Pokhara, Nepal** | 💻 **Frontend Software Engineer** |
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -21,7 +21,7 @@
 
 ### Vanilla JavaScript Projects
 
-- 📃 **[Google Sheet Clone](https://github.com/bishalk21/g-excel-app)** - Spreadsheet application with cell editing, formatting, formulas, sheet upload/download, and dependency graph optimization
+- 📊 **[Google Sheet Clone](https://github.com/bishalk21/g-excel-app)** - Full-featured spreadsheet app with cell editing, formatting, dynamic formulas, import/export, and optimized dependency tracking
 - 📸 **[Camera + Gallery App](https://github.com/bishalk21/Camera-Gallery)** - Web application for recording and managing videos using browser APIs
 - 📝 **[To-Do List App](https://github.com/bishalk21/to-do-list-app/)** - Task management app with entry and bad task lists, built with vanilla JavaScript and local storage
 - 🧮 **[Calculator using JavaScript](https://github.com/bishalk21/JS-Calculator)** - Simple calculator app built with vanilla JavaScript for basic arithmetic operations
