@@ -28,8 +28,22 @@
 
 ### React.js Projects
 
+- 🎬 **[Netflix GPT](https://github.com/bishalk21/netflix-gpt)** - Netflix-inspired movie recommendation app with GPT integration
 - 🍔 **[Hamro Bhojan](https://github.com/bishalk21/hamro-bhojan)** - Full-stack food delivery platform with real-time order tracking
 - 🏥 **Healthcare Management System** - MERN-based healthcare solution with appointment scheduling
+
+### All Projects
+
+| Project Name                 | Tech Stack                    | Link                                                                |
+| ---------------------------- | ----------------------------- | ------------------------------------------------------------------- |
+| AI Gift Genie                | React, Node.js, OpenAI API    | [GitHub](https://github.com/bishalk21/ai-project)                   |
+| Google Sheet Clone           | JavaScript, HTML, CSS         | [GitHub](https://github.com/bishalk21/g-excel-app)                  |
+| Camera + Gallery App         | JavaScript, HTML, CSS         | [GitHub](https://github.com/bishalk21/Camera-Gallery)               |
+| To-Do List App               | JavaScript, HTML, CSS         | [GitHub](https://github.com/bishalk21/to-do-list-app)               |
+| Calculator using JavaScript  | JavaScript, HTML, CSS         | [GitHub](https://github.com/bishalk21/JS-Calculator)                |
+| Netflix GPT                  | React, TypeScript, OpenAI API | [GitHub](https://github.com/bishalk21/netflix-gpt)                  |
+| Hamro Bhojan                 | React, Node.js, MongoDB       | [GitHub](https://github.com/bishalk21/hamro-bhojan)                 |
+| Healthcare Management System | React, Node.js, MongoDB       | [GitHub](https://github.com/bishalk21/healthcare-management-system) |
 
 ## GitHub Activity
 
