@@ -8,12 +8,20 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Rest API](https://img.shields.io/badge/-REST_API-000000?style=flat-square&logo=rest-api&logoColor=white)
 
 > Building modern web applications with the MERN stack. Passionate about clean code, seamless user experiences, and continuous learning.
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-543DE0?style=flat-square&logo=About.me&logoColor=white)](https://bishal-karki.vercel.app/)
 
-## Current Projects
+### All Projects
+
+| Project Name | Tech Stack                                                                | Link                                               |
+| ------------ | ------------------------------------------------------------------------- | -------------------------------------------------- |
+| Netflix GPT  | TypeScript, React, Firebase, Redux-Toolkit, Node.js, TMDB API, OpenAI API | [GitHub](https://github.com/bishalk21/netflix-gpt) |
 
 ### AI Projects
 
@@ -32,19 +40,6 @@
 - 🍔 **[Hamro Bhojan](https://github.com/bishalk21/hamro-bhojan)** - Full-stack food delivery platform with real-time order tracking
 - 🏥 **Healthcare Management System** - MERN-based healthcare solution with appointment scheduling
 
-### All Projects
-
-| Project Name                 | Tech Stack                    | Link                                                                |
-| ---------------------------- | ----------------------------- | ------------------------------------------------------------------- |
-| AI Gift Genie                | React, Node.js, OpenAI API    | [GitHub](https://github.com/bishalk21/ai-project)                   |
-| Google Sheet Clone           | JavaScript, HTML, CSS         | [GitHub](https://github.com/bishalk21/g-excel-app)                  |
-| Camera + Gallery App         | JavaScript, HTML, CSS         | [GitHub](https://github.com/bishalk21/Camera-Gallery)               |
-| To-Do List App               | JavaScript, HTML, CSS         | [GitHub](https://github.com/bishalk21/to-do-list-app)               |
-| Calculator using JavaScript  | JavaScript, HTML, CSS         | [GitHub](https://github.com/bishalk21/JS-Calculator)                |
-| Netflix GPT                  | React, TypeScript, OpenAI API | [GitHub](https://github.com/bishalk21/netflix-gpt)                  |
-| Hamro Bhojan                 | React, Node.js, MongoDB       | [GitHub](https://github.com/bishalk21/hamro-bhojan)                 |
-| Healthcare Management System | React, Node.js, MongoDB       | [GitHub](https://github.com/bishalk21/healthcare-management-system) |
-
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/bishalk21)
@@ -58,7 +53,7 @@
 
 ## Tech Stack
 
-**Frontend:** React, TypeScript, TailwindCSS, Redux, Vite  
+**Frontend:** React, TypeScript, TailwindCSS, Redux, Vite, Shadcn/UI  
 **APIs:** REST APIs, GraphQL  
 **Backend:** Node.js, Express.js, MongoDB, REST APIs
 **Tools:** Git, Postman, Figma, VS Code  
